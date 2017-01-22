@@ -1,0 +1,1 @@
+- [Dockerfile with needed extensions, configurations and commands that install Magento 2](https://github.com/magento/magento2devbox-web)
